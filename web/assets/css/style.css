@@ -1,0 +1,82 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 5, 2022, 11:27:00 AM
+    Author     : T490
+*/
+
+html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    margin:0 auto;
+}
+
+a {
+    color: Blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f4a460;
+    text-decoration: none;
+}
+
+
+table {
+    font-size: 13px;
+    background-color: #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th {
+    border-right: 1px solid #fff;
+    padding: 2px;
+    text-transform: uppercase;
+    height: 23px;
+    background-color: #6b90da;
+    font-weight: normal;
+}
+
+tfoot {
+    padding: 2px;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 6px;
+    border-top: 6px solid #e9f7f6;
+}
+
+tr {
+    background-color: #fff;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+td {
+    padding: 5px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    vertical-align: top;
+
+}
+
+tbody th {
+    text-align: left;
+    padding: 2px;
+}
+
+.campus,
+.lecturer {
+    margin: 10px 0 10px 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
